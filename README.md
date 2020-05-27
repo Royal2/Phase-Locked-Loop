@@ -31,7 +31,7 @@
 <img align="center" src="images/matched_filter_output_signal.png">
 
 ## 2D Slicer
-<img align="center" src="images/2d_slices.png">
+<img align="center" src="images/2d_slicer.png">
 
 ## Input to Detector
 <img align="center" src="images/detector_input.png">
